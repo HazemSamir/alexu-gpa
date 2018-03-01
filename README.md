@@ -10,12 +10,14 @@ _The calculator is not generic and is a personal effort and is not officially su
 
 Supported Departments
 ---------------------
-1- CSED.
-2- EED - Power and Machines.
-3- EED - Communication and Electronics.
+
+1. CSED.
+2. EED - Power and Machines.
+3. EED - Communication and Electronics.
 
 **To be added soon!**
-4- Mechanical Department.
+
+4. Mechanical Department.
 
 
 Comments and Contributions
