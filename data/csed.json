@@ -1,0 +1,111 @@
+{
+    "name": "Computer and Systems Engineering Department",
+    "years": [
+        [
+        
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "MP113", "subject": "Mathematics-3", "hours": 6 },
+                { "code": "CS121", "subject": "Programming-1",  "hours": 5 },
+                { "code": "EE112", "subject": "Electric Engineering Fundamentals", "hours": 6 },
+                { "code": "MP127", "subject": "Mechanics-3", "hours": 4 },
+                { "code": "EE131", "subject": "Modern Physics", "hours": 6 },
+                { "code": "HS171", "subject": "Computer and Productivity Support", "hours": 3 }
+                ]
+            },
+            
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "MPx14", "subject": "Mathematics-4", "hours": 6 },
+                { "code": "CS111", "subject": "Propability Theory and Computer Application", "hours": 4 },
+                { "code": "CS122", "subject": "Data Structures-1", "hours": 5 },
+                { "code": "CS131", "subject": "Computer Fundamentals", "hours": 6 },
+                { "code": "EEx11", "subject": "Electric Circuits", "hours": 6 },
+                { "code": "HS172", "subject": "Computer and Society", "hours": 3 }
+                ]
+            }
+        ],
+        
+        [
+        
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "CS211", "subject": "Mathematics for Computer", "hours": 6 },
+                { "code": "CS221", "subject": "Programming-2", "hours": 5 },
+                { "code": "EE236", "subject": "Electronics", "hours": 6 },
+                { "code": "CS212", "subject": "Statistical Methods for Computers", "hours": 4 },
+                { "code": "CS231", "subject": "Digital Systems-1", "hours": 6 },
+                { "code": "HSx12", "subject": "Technical Reports Writing", "hours": 2 }
+                ]
+            },
+            
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "CS213", "subject": "Numerical Analysis and Computer Applications", "hours": 5 },
+                { "code": "CS222", "subject": "Systems and Components Programming", "hours": 5 },
+                { "code": "CS232", "subject": "Digital Systems-2", "hours": 6 },
+                { "code": "CS241", "subject": "Linear Control Systems", "hours": 6 },
+                { "code": "CS223", "subject": "Data Structures-2", "hours": 6 },
+                { "code": "HSx33", "subject": "Laws For Engineering Profession", "hours": 2 }
+                ]
+            }
+        ],
+        
+        [
+        
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "CS331", "subject": "Micro Systems", "hours": 6 },
+                { "code": "CS341", "subject": "Non-Linear Control Systems", "hours": 6 },
+                { "code": "CS311", "subject": "Algorithms", "hours": 5 },
+                { "code": "CS332", "subject": "Digital Signal Processing", "hours": 5 },
+                { "code": "CS333", "subject": "Operating Systems", "hours": 5 },
+                { "code": "HS373", "subject": "Human to Computer Interaction-1", "hours": 3 }
+                ]
+            },
+            
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "CS312", "subject": "Operations Research", "hours": 5 },
+                { "code": "CS334", "subject": "Embedded Systems", "hours": 6 },
+                { "code": "CSx35", "subject": "Computer Architecture", "hours": 5 },
+                { "code": "CS321", "subject": "Programming Languages and Compilers", "hours": 5 },
+                { "code": "CS322", "subject": "Database Systems", "hours": 6 },
+                { "code": "HS374", "subject": "Human to Computer Interaction", "hours": 3 }
+                ]
+            }
+        ],
+
+        [
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "CS431", "subject": "Computer Networks", "hours": 6 },
+                { "code": "CS4E1", "subject": "Elective Course-1", "hours": 5 },
+                { "code": "CS4E2", "subject": "Elective Course-2", "hours": 5 },
+                { "code": "CS441", "subject": "Modern Control Systems", "hours": 5 },
+                { "code": "CS401", "subject": "Project (Continuous subject)", "hours": 5, "continuous": true},
+                { "code": "HSx64", "subject": "Engineering Economy", "hours": 4 }
+                ]
+            },
+
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "CS432", "subject": "Distributed Systems and Internet Programing", "hours": 6 },
+                { "code": "CS4E3", "subject": "Elective Course-3", "hours": 5 },
+                { "code": "CS4E4", "subject": "Elective Course-4", "hours": 5 },
+                { "code": "CS433", "subject": "Performance Analysis", "hours": 6 },
+                { "code": "CS402", "subject": "Project", "hours": 5, "tothours": 10 },
+                { "code": "HS444", "subject": "Social Dangerouse and Securing Computer Systems", "hours": 3 }
+                ]
+            }
+        ]
+    ]
+}

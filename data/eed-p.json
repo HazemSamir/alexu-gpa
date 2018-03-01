@@ -1,0 +1,113 @@
+{
+    "name": "EED - Power and Machines Section",
+    "years": [
+        [
+        
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "EEx11", "hours": 6, "subject": "Electrical Circuits" },
+                { "code": "EE131", "hours": 5, "subject": "Modern Physics" },
+                { "code": "EE151", "hours": 5, "subject": "Introduction to Energy Systems" },
+                { "code": "MP113", "hours": 6, "subject": "Mathematics-3" },
+                { "code": "JE1J3", "hours": 6, "subject": "Mechanics-6 and Theory of Structures-5" },
+                { "code": "HSx33", "hours": 2, "subject": "Laws for Engineering Profession " }
+                ]
+            },
+            
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "EE121", "hours": 6, "subject": "Electric and Electronic Measurements" },
+                { "code": "EE132", "hours": 7, "subject": "Electronic Devices and Circuits" },
+                { "code": "EE141", "hours": 6, "subject": "Introductions to Logic Circuits and Programming" },
+                { "code": "MPx14", "hours": 6, "subject": "Mathematics-4" },
+                { "code": "HSx66", "hours": 2, "subject": "Accounting and Costs" },
+                { "code": "HSx41", "hours": 3, "subject": "Environmental Sciences" }
+                ]
+            }
+        ],
+        
+        [
+        
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "EE212", "subject": "Electric Circuit Analysis", "hours": 8 },
+                { "code": "EE243", "subject": "Microprocessor Fundamentals", "hours": 6 },
+                { "code": "EE261", "subject": "Electromagnetic Fields", "hours": 6 },
+                { "code": "PE226", "subject": "Technology of Electrical Materials", "hours": 4 },
+                { "code": "MP215", "subject": "Mathematics-5", "hours": 2 },
+                { "code": "HSx64", "subject": "Engineering Economy ", "hours": 4 }
+                ]
+            },
+            
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "EE235", "hours": 4, "subject": "Electronic Engineering" },
+                { "code": "MPx16", "hours": 6, "subject": "Mathematics-6" },
+                { "code": "EE252", "hours": 6, "subject": "Electric Power Engineering-1" },
+                { "code": "EE272", "hours": 6, "subject": "Electric Machines Engineering" },
+                { "code": "ME245", "hours": 6, "subject": "Mechanical Engineering" },
+                { "code": "HSx27", "hours": 2, "subject": "Psychology" }
+                ]
+            }
+        ],
+        
+        [
+        
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "EE353", "hours": 6, "subject": "Electric Power Engineering-2" },
+                { "code": "EEx73", "hours": 6, "subject": "Electric Machines Engineering-2" },
+                { "code": "EE392", "hours": 6, "subject": "Control and Computer Applications" },
+                { "code": "EE3E1", "hours": 6, "subject": "Elective Course (1) P" },
+                { "code": "MP312", "hours": 4, "subject": "Mathematics-12" },
+                { "code": "HSx12", "hours": 2, "subject": "Technical Reports Writing" }
+                ]
+            },
+            
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "EE339", "hours": 4, "subject": "Power Electronics-1" },
+                { "code": "EE354", "hours": 6, "subject": "Protection of Power Systems-1" },
+                { "code": "EE374", "hours": 6, "subject": "Electric Machines Engineering-3" },
+                { "code": "EE393", "hours": 5, "subject": "Automatic Control Engineering-1" },
+                { "code": "EE3E2", "hours": 6, "subject": "Elective Course (2) P" },
+                { "code": "HS368", "hours": 3, "subject": "Economics of Electrical Energy" }
+                ]
+            }
+        ],
+
+        [
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "EE434", "hours": 6, "subject": "Power Electronics-2" },
+                { "code": "EE455", "hours": 3, "subject": "Protection of Power Systems-2" },
+                { "code": "EE456", "hours": 6, "subject": "Power System Analysis" },
+                { "code": "EE495", "hours": 5, "subject": "Automatic Control Engineering-2" },
+                { "code": "EE4E3", "hours": 3, "subject": "Elective Course (3) P" },
+                { "code": "HS437", "hours": 3, "subject": "Laws and Rules of Electrical Safety" },
+                { "code": "EE401", "hours": 4, "subject": "Project (Continuous subject)", "continuous": true}
+                ]
+            },
+
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "EE449", "hours": 4, "subject": "Industrial Automation" },
+                { "code": "EE458", "hours": 6, "subject": "High Voltage Engineering" },
+                { "code": "EE476", "hours": 6, "subject": "Electrical Drives" },
+                { "code": "EE4E4", "hours": 3, "subject": "Elective Course (4) P" },
+                { "code": "HS469", "hours": 3, "subject": "Specifications and Projects Management" },
+                { "code": "ME411", "hours": 4, "subject": "Thermal Power Plants" },
+                { "code": "EE402", "hours": 4, "subject": "Project", "tothours": 8 }
+                ]
+            }
+        ]
+    ]
+}

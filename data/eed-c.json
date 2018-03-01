@@ -1,0 +1,112 @@
+{
+    "name": "EED - Communications and Electronics",
+    "years": [
+        [
+        
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "EEx11", "hours": 6, "subject": "Electrical Circuits" },
+                { "code": "EE131", "hours": 5, "subject": "Modern Physics" },
+                { "code": "EE151", "hours": 5, "subject": "Introduction to Energy Systems" },
+                { "code": "MP113", "hours": 6, "subject": "Mathematics-3" },
+                { "code": "JE1J3", "hours": 6, "subject": "Mechanics-6 and Theory of Structures-5" },
+                { "code": "HSx33", "hours": 2, "subject": "Laws for Engineering Profession " }
+                ]
+            },
+            
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "EE121", "hours": 6, "subject": "Electric and Electronic Measurements" },
+                { "code": "EE132", "hours": 7, "subject": "Electronic Devices and Circuits" },
+                { "code": "EE141", "hours": 6, "subject": "Introductions to Logic Circuits and Programming" },
+                { "code": "MPx14", "hours": 6, "subject": "Mathematics-4" },
+                { "code": "HSx66", "hours": 2, "subject": "Accounting and Costs" },
+                { "code": "HSx41", "hours": 3, "subject": "Environmental Sciences" }
+                ]
+            }
+        ],
+        
+        [
+        
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "EE212", "hours": 8, "subject": "Electric Circuit Analysis" },
+                    { "code": "EE233", "hours": 6, "subject": "Solid State Electronics" },
+                    { "code": "EE261", "hours": 6, "subject": "Electromagnetic Fields" },
+                    { "code": "MP215", "hours": 4, "subject": "Mathematics-5" },
+                    { "code": "PE226", "hours": 2, "subject": "Technology of Electrical Materials" },
+                    { "code": "HSx64", "hours": 4, "subject": "Engineering Economy" }
+                ]
+            },
+            
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "EE234", "hours": 6, "subject": "Electronic Circuit Analysis" },
+                    { "code": "EE242", "hours": 6, "subject": "Logic Circuit Design" },
+                    { "code": "EE271", "hours": 6, "subject": "Electric Machines and Power Systems" },
+                    { "code": "ME245", "hours": 6, "subject": "Mechanical Engineering" },
+                    { "code": "MP219", "hours": 4, "subject": "Mathematics-9 (Random Signal Analysis)" },
+                    { "code": "HSx27", "hours": 2, "subject": "Psychology" }
+                ]
+            }
+        ],
+        
+        [
+        
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "EE336", "hours": 6, "subject": "Semiconductor Devices" },
+                    { "code": "EE345", "hours": 6, "subject": "Microprocessors-1" },
+                    { "code": "EE362", "hours": 6, "subject": "Electromagnetic Waves and Acoustics" },
+                    { "code": "EE381", "hours": 6, "subject": "Signals and Systems" },
+                    { "code": "MPx16", "hours": 4, "subject": "Mathematics-6" },
+                    { "code": "HSx12", "hours": 2, "subject": "Technical Reports Writing" }
+                ]
+            },
+            
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "EE337", "hours": 5, "subject": "Analog Integrated Circuits" },
+                    { "code": "EE363", "hours": 6, "subject": "Microwave and Optical Transmission Media" },
+                    { "code": "EE382", "hours": 5, "subject": "Analog Communications" },
+                    { "code": "EE391", "hours": 6, "subject": "Control Systems and Their Components" },
+                    { "code": "EE3E1", "hours": 5, "subject": "Elective Course (1) C" },
+                    { "code": "PE343", "hours": 3, "subject": "Metrology and Sensors" }
+                ]
+            }
+        ],
+
+        [
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "EE423", "hours": 6, "subject": "Electronic and Microwave Measurements" },
+                    { "code": "EE481", "hours": 8, "subject": "Digital Communications" },
+                    { "code": "EE4E2", "hours": 5, "subject": "Elective Course (2) C" },
+                    { "code": "EE4E3", "hours": 5, "subject": "Elective Course (3) C" },
+                    { "code": "HS467", "hours": 2, "subject": "International Trade" },
+                    { "code": "EE401", "hours": 4, "subject": "Project (Continuous subject)", "continuous": true}
+                ]
+            },
+
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "EE447", "hours": 4, "subject": "Microprocessors-2" },
+                    { "code": "EE484", "hours": 6, "subject": "Communication Systems" },
+                    { "code": "EE4E4", "hours": 5, "subject": "Elective Course (4) C" },
+                    { "code": "EE4E5", "hours": 5, "subject": "Elective Course (5) C" },
+                    { "code": "HSx61", "hours": 4, "subject": "Project Management" },
+                    { "code": "HS436", "hours": 2, "subject": "Communications Laws and Codes" },
+                    { "code": "EE402", "hours": 4, "subject": "Project", "tothours": 8 }
+                ]
+            }
+        ]
+    ]
+}

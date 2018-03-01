@@ -1,0 +1,111 @@
+{
+    "name": "",
+    "years": [
+        [
+        
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" }
+                ]
+            },
+            
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" }
+                ]
+            }
+        ],
+        
+        [
+        
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" }
+                ]
+            },
+            
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" }
+                ]
+            }
+        ],
+        
+        [
+        
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" }
+                ]
+            },
+            
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" }
+                ]
+            }
+        ],
+
+        [
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" }
+                ]
+            },
+
+            {
+                "enabled": false,
+                "subjects": [
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" },
+                { "code": "", "hours": , "subject": "" }
+                ]
+            }
+        ]
+    ]
+}
