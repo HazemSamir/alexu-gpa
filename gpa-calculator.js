@@ -149,7 +149,7 @@ app.service('YearsData', function($location, $http){
   };
   
   this.getDepYears = function(dep, callback) {
-    let dataPath = "../data/" + dep + ".json";
+    let dataPath = "data/" + dep + ".json";
     $http.get(dataPath)
     .success(callback)
     .error(function(err){
