@@ -52,6 +52,16 @@ app.controller('calculator', function(YearsData){
   this.grades = { };
   this.gpa = 0;
 
+  if (!localStorage.hideWelcome) {
+    $(document).ready(() => {
+      $("#welcome-modal").modal();
+    });
+  }
+
+  this.hideWelcome = function() {
+    localStorage.hideWelcome = true;
+  }
+
   this.initializeGrades = function (localGrades) {
     // Checks if grades exist in local storage.
     if(localGrades != null) {
