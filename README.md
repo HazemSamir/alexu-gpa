@@ -14,11 +14,12 @@ Supported Departments
 1. CSED.
 2. EED - Power and Machines.
 3. EED - Communication and Electronics.
+4. Mechanical Department.
+5. Nuclear Department.
 
 **To be added soon!**
-
-4. Mechanical Department.
-
+6. Civil Department.
+7. Production Department.
 
 Comments and Contributions
 ---------------------

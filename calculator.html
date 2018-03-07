@@ -25,17 +25,21 @@
 
   <body ng-app="gpa-calculator">
     <div class="navbar navbar-default navbar-fixed-top">
-      <div class="container-fluid">
+      <div class="container">
         <div class="navbar-header">
           <a href="index.html" class="navbar-brand">GPA Calculator</a>
           <ul class="nav navbar-nav">
               <li class="dropdown">
                 <a data-toggle="dropdown" role="button">CHOOSE DEPARTMENT<span class="caret"></span></a>
                 <ul class="dropdown-menu" role="menu">
-                    <li><a href="https://hazemsamir.github.io/csed-gpa">CSED</a></li>
-                    <li class="divider"></li>
-                    <li><a onclick="window.location.reload()" href="calculator.html#?dep=eed-p">EED - Power and Machines</a></li>
-                    <li><a onclick="window.location.reload()" href="calculator.html#?dep=eed-c">EED - Communications and Electronics</a></li>
+                  <li><a onclick="window.location.reload()" href="calculator.html#?dep=csed">CSED - Computer</a></li>
+                  <li class="divider"></li>
+                  <li><a onclick="window.location.reload()" href="calculator.html#?dep=eed-p">EED - Power and Machines</a></li>
+                  <li><a onclick="window.location.reload()" href="calculator.html#?dep=eed-c">EED - Communications and Electronics</a></li>
+                  <li class="divider"></li>
+                  <li><a onclick="window.location.reload()" href="calculator.html#?dep=med">MED - Mechanical</a></li>
+                  <li class="divider"></li>
+                  <li><a onclick="window.location.reload()" href="calculator.html#?dep=nred">NRED - Nuclear</a></li>
                 </ul>
               </li>
             </ul>

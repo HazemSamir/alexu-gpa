@@ -1,0 +1,108 @@
+{
+    "name": "Mechanical Engineering Department",
+    "years": [
+        [
+        
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "MP113", "hours": 6, "subject": "Mathematics-3" },
+                    { "code": "MP123", "hours": 6, "subject": "Mechanics -3" },
+                    { "code": "ME141", "hours": 4, "subject": "Mechanics of Materials" },
+                    { "code": "ME111", "hours": 8, "subject": "Fundamentals and Measurements of Heat and Fluid Flow" },
+                    { "code": "ME142", "hours": 6, "subject": "Mechanical Drawing" }
+                ]
+            },
+            
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "MPx14", "hours": 6, "subject": "Mathematics-4" },
+                    { "code": "ME143", "hours": 6, "subject": "Mechanics of Machinery-1" },
+                    { "code": "CE166", "hours": 4, "subject": "Structural Engineering-1" },
+                    { "code": "PE128", "hours": 6, "subject": "Technology and Processing of Metals" },
+                    { "code": "ME144", "hours": 4, "subject": "Computer-Aided Mechanical Drawing**" },
+                    { "code": "HSx52", "hours": 4, "subject": "Industrial Safety" }
+                ]
+            }
+        ],
+        
+        [
+        
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "MP215", "hours": 6, "subject": "Mathematics-5" },
+                    { "code": "ME241", "hours": 6, "subject": "Mechanics of Machinery-2" },
+                    { "code": "ME211", "hours": 6, "subject": "Thermodynamics-1" },
+                    { "code": "EE272", "hours": 6, "subject": "Electrical Machines-" },
+                    { "code": "PE228", "hours": 4, "subject": "Production Engineering-2" },
+                    { "code": "HSx12", "hours": 2, "subject": "Technical Report Writing" }
+                ]
+            },
+            
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "ME242", "hours": 4, "subject": "Computer Applications in Mechanical Engineering" },
+                    { "code": "ME243", "hours": 6, "subject": "Mechanical Design-1" },
+                    { "code": "ME231", "hours": 6, "subject": "Fluid Mechanics-1" },
+                    { "code": "ME221", "hours": 6, "subject": "Fundamentals of Combustion Engineering" },
+                    { "code": "EE253", "hours": 6, "subject": "Electrical Power and Electronics" },
+                    { "code": "HSx27", "hours": 2, "subject": "Psychology" }
+                ]
+            }
+        ],
+        
+        [
+        
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "ME311", "hours": 6, "subject": "Thermodynamics-2" },
+                    { "code": "ME331", "hours": 6, "subject": "Fluid Mechanics-2" },
+                    { "code": "ME341", "hours": 6, "subject": "Mechanical Design-2" },
+                    { "code": "ME342", "hours": 6, "subject": "Mechanical Vibrations" },
+                    { "code": "ME321", "hours": 6, "subject": "Internal Combustion Engines" }
+                ]
+            },
+            
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "ME312", "hours": 6, "subject": "Heat Transfer" },
+                    { "code": "ME322", "hours": 6, "subject": "Gas Dynamics" },
+                    { "code": "ME343", "hours": 6, "subject": "Mechanical Design-3" },
+                    { "code": "ME344", "hours": 6, "subject": "Automatic Control" },
+                    { "code": "HS362", "hours": 6, "subject": "Engineering Economy and Project Management" }
+                ]
+            }
+        ],
+
+        [
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "ME411", "hours": 6, "subject": "Thermal Power Plants" },
+                    { "code": "ME431", "hours": 6, "subject": "Hydraulic Machines" },
+                    { "code": "ME412", "hours": 6, "subject": "Refrigeration and air Conditioning" },
+                    { "code": "ME4E1", "hours": 6, "subject": "Elective Course (1)" },
+                    { "code": "HSx33", "hours": 2, "subject": "Industrial Legislations" },
+                    { "code": "ME401", "hours": 4, "subject": "Project", "continuous": true}
+                ]
+            },
+
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "ME4E2", "hours": 6, "subject": "Elective Course (2)" },
+                    { "code": "ME4E3", "hours": 6, "subject": "Elective Course (3)" },
+                    { "code": "ME433", "hours": 6, "subject": "Mechanical Engineering Laboratory" },
+                    { "code": "HS463", "hours": 2, "subject": "Marketing" },
+                    { "code": "ME417", "hours": 6, "subject": "Environment and Energy" },
+                    { "code": "ME402", "hours": 4, "subject": "Project", "tothours": 8 }
+                ]
+            }
+        ]
+    ]
+}

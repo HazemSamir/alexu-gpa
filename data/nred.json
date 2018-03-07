@@ -1,0 +1,113 @@
+{
+    "name": "Nuclear and Radiation Engineering Department",
+    "years": [
+        [
+        
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "MP113", "hours": 6, "subject": "Mathematics-3" },
+                    { "code": "MP128", "hours": 4, "subject": "Mechanics-8" },
+                    { "code": "NE111", "hours": 6, "subject": "Modern Physics" },
+                    { "code": "NE121", "hours": 5, "subject": "Introduction to Engineering Materials Science" },
+                    { "code": "ME147", "hours": 6, "subject": "Machine Drawing" },
+                    { "code": "HS129", "hours": 3, "subject": "History of Nuclear Engineering" }
+                ]
+            },
+            
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "MPx14", "hours": 6, "subject": "Mathematics-4" },
+                    { "code": "EEx11", "hours": 6, "subject": "Electric Circuits" },
+                    { "code": "NE112", "hours": 5, "subject": "Computers and Numerical Methods" },
+                    { "code": "NE131", "hours": 4, "subject": "Introduction to Nuclear and Radiation Engineering" },
+                    { "code": "NE122", "hours": 6, "subject": "Properties and Testing of Nuclear Materials" },
+                    { "code": "HSx41", "hours": 3, "subject": "Environmental Sciences" }
+                ]
+            }
+        ],
+        
+        [
+        
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "MP215", "hours": 5, "subject": "Mathematics-5" },
+                    { "code": "NE211", "hours": 6, "subject": "Nuclear Physics" },
+                    { "code": "NE251", "hours": 6, "subject": "Thermodynamics and Kinetic Theory of Gases" },
+                    { "code": "ME246", "hours": 5, "subject": "Stress Analysis and Machine Design" },
+                    { "code": "EEx73", "hours": 6, "subject": "Electrical Machines Engineering-2" },
+                    { "code": "HS230", "hours": 2, "subject": "Laws and Statutes" }
+                ]
+            },
+            
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "MPx16", "hours": 6, "subject": "Mathematics-6" },
+                    { "code": "NE241", "hours": 5, "subject": "Radiation Safety" },
+                    { "code": "NE221", "hours": 4, "subject": "Nuclear Reactors Materials" },
+                    { "code": "ME232", "hours": 6, "subject": "Fluid Mechanics and Flow Engineering" },
+                    { "code": "NE242", "hours": 5, "subject": "Radiochemistry" },
+                    { "code": "HSx61", "hours": 4, "subject": "Projects Management" }
+                ]
+            }
+        ],
+        
+        [
+        
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "MP317", "hours": 6, "subject": "Mathematics-7" },
+                    { "code": "NE351", "hours": 6, "subject": "Heat Transfer" },
+                    { "code": "EE331", "hours": 6, "subject": "Electronic Circuits and Pulses" },
+                    { "code": "NE3E1", "hours": 4, "subject": "Elective Course (1)" },
+                    { "code": "NE311", "hours": 4, "subject": "Quantum Mechanics" },
+                    { "code": "HS345", "hours": 4, "subject": "Nuclear Energy and the Environment" }
+                ]
+            },
+            
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "NE312", "hours": 6, "subject": "Plasma and Electromagnetic Theory" },
+                    { "code": "NE331", "hours": 6, "subject": "Nuclear Reactors Physics" },
+                    { "code": "NE341", "hours": 6, "subject": "Radiation Detection" },
+                    { "code": "NE352", "hours": 6, "subject": "Thermal Power Stations" },
+                    { "code": "NE3E2", "hours": 4, "subject": "Elective Course (2)" },
+                    { "code": "HSx12", "hours": 2, "subject": "Technical Reports Writing" }
+                ]
+            }
+        ],
+
+        [
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "NE431", "hours": 6, "subject": "Nuclear Reactor Analysis-1" },
+                    { "code": "NE432", "hours": 3, "subject": "Radiation Shielding Design" },
+                    { "code": "NE433", "hours": 4, "subject": "Reactors Automatic Control" },
+                    { "code": "NE434", "hours": 5, "subject": "Nuclear Fuel Cycles" },
+                    { "code": "NE4E3", "hours": 4, "subject": "Elective Course (3)" },
+                    { "code": "HSx27", "hours": 2, "subject": "Psychology" },
+                    { "code": "NE401", "hours": 6, "subject": "Project", "continuous": true }
+                ]
+            },
+
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "NE435", "hours": 6, "subject": "Nuclear Reactor Analysis-2" },
+                    { "code": "NE436", "hours": 3, "subject": "Reactors Kinetics" },
+                    { "code": "EE450", "hours": 5, "subject": "Electric Power Systems" },
+                    { "code": "NE441", "hours": 4, "subject": "Applications of Radioisotopes" },
+                    { "code": "NE4E4", "hours": 4, "subject": "Elective Course (4)" },
+                    { "code": "HS464", "hours": 2, "subject": "Economics of Energy" },
+                    { "code": "NE402", "hours": 6, "subject": "Project", "tothours": 8 }
+                ]
+            }
+        ]
+    ]
+}
