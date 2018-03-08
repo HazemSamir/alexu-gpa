@@ -1,0 +1,111 @@
+{
+    "name": "Civil Engineering Department",
+    "years": [
+        [
+
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "MP124", "hours": 4, "subject": "Mechanics-4" },
+                    { "code": "CE161", "hours": 5, "subject": "Theory of Structures-1" },
+                    { "code": "CE141", "hours": 7, "subject": "Surveying and Topography-1" },
+                    { "code": "CE142", "hours": 4, "subject": "Civil Drawing-1", "continuous": true },
+                    { "code": "CE162", "hours": 6, "subject": "Properties of Materials-1" },
+                    { "code": "CE146", "hours": 4, "subject": "Computer Applications in Civil Engineering" }
+                ]
+            },
+
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "MP113", "hours": 6, "subject": "Mathematics-3" },
+                    { "code": "CE143", "hours": 3, "subject": "Engineering Geology" },
+                    { "code": "CE163", "hours": 6, "subject": "Theory of Structures-2" },
+                    { "code": "CE144", "hours": 5, "subject": "Surveying and Topography-2" },
+                    { "code": "CE145", "hours": 4, "subject": "Civil Drawing-2", "tothours": 8 },
+                    { "code": "HS132", "hours": 6, "subject": "Engineering Law and Economics" }
+                ]
+            }
+        ],
+
+        [
+
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "MPx14", "hours": 5, "subject": "Mathematics-4" },
+                    { "code": "CE264", "hours": 5, "subject": "Theory of Structures-3" },
+                    { "code": "CE281", "hours": 6, "subject": "Soil Mechanics-1" },
+                    { "code": "CE246", "hours": 8, "subject": "Surveying and Photogrammetry-3" },
+                    { "code": "CE231", "hours": 3, "subject": "Hydrology" },
+                    { "code": "HSx41", "hours": 3, "subject": "Environmental Sciences" }
+                ]
+            },
+
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "CE265", "hours": 6, "subject": "Theory of Structures-4" },
+                    { "code": "CE232", "hours": 7, "subject": "Hydraulics-1" },
+                    { "code": "CE266", "hours": 6, "subject": "Properties of Materials-2" },
+                    { "code": "CE251", "hours": 4, "subject": "Transportation Planning and Traffic Engineering" },
+                    { "code": "AR215", "hours": 3, "subject": "Arch. Design Principles" },
+                    { "code": "CE271", "hours": 4, "subject": "Reinforced Concrete-1" }
+                ]
+            }
+        ],
+
+        [
+
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "CE3E1", "hours": 4, "subject": "Elective Course (1)" },
+                    { "code": "CE3E2", "hours": 4, "subject": "Elective Course (2)" },
+                    { "code": "CE321", "hours": 4, "subject": "Irrigation and Drainage Engineering" },
+                    { "code": "CE333", "hours": 6, "subject": "Hydraulics-2" },
+                    { "code": "CE372", "hours": 6, "subject": "Metallic Structures-1" },
+                    { "code": "CE373", "hours": 6, "subject": "Reinforced Concrete-2" }
+                ]
+            },
+
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "CE3E3", "hours": 4, "subject": "Elective Course (3)" },
+                    { "code": "CE3E4", "hours": 4, "subject": "Elective Course (4)" },
+                    { "code": "CE322", "hours": 6, "subject": "Design of Irrigation Structures-1" },
+                    { "code": "CE311", "hours": 6, "subject": "Sanitary Engineering" },
+                    { "code": "CE382", "hours": 8, "subject": "Foundation Engineering" },
+                    { "code": "HSx12", "hours": 2, "subject": "Technical Report Writing" }
+                ]
+            }
+        ],
+
+        [
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "CE474", "hours": 4, "subject": "Concrete Structures & Bridges-1" },
+                    { "code": "CE423", "hours": 6, "subject": "Design Of Irrigation Structures-2" },
+                    { "code": "CE452", "hours": 6, "subject": "Railways Engineering" },
+                    { "code": "CE453", "hours": 6, "subject": "Harbor Engineering and Marine Structures" },
+                    { "code": "CE454", "hours": 6, "subject": "Highways Engineering" },
+                    { "code": "CE483", "hours": 2, "subject": "Contracts , Quantities and Specifications-1" }
+                ]
+            },
+
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "CE4E5", "hours": 4, "subject": "Elective Course (5)" },
+                    { "code": "CE475", "hours": 6, "subject": "Concrete Structures & Bridges-2" },
+                    { "code": "CE476", "hours": 6, "subject": "Metallic Structures and Bridges-1" },
+                    { "code": "HSX61", "hours": 4, "subject": "Project Management" },
+                    { "code": "HS442", "hours": 2, "subject": "Environment Protection" },
+                    { "code": "CE402", "hours": 8, "subject": "Project" }
+                ]
+            }
+        ]
+    ]
+}

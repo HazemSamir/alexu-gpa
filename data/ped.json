@@ -1,0 +1,113 @@
+{
+    "name": "Production Engineering Department",
+    "years": [
+        [
+
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "MP113", "hours": 6, "subject": "Mathematics-3" },
+                    { "code": "MP133", "hours": 6, "subject": "Physics-3" },
+                    { "code": "CE164", "hours": 6, "subject": "Testing of Materials and Theory of Structures" },
+                    { "code": "PE121", "hours": 6, "subject": "Materials Technology-1" },
+                    { "code": "PE151", "hours": 4, "subject": "M/C Tool Elements Drawing-1" },
+                    { "code": "HSx12", "hours": 2, "subject": "Technical Reports Writing" }
+                ]
+            },
+
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "MP125", "hours": 4, "subject": "Mechanics-5" },
+                    { "code": "PE122", "hours": 6, "subject": "Foundry and Welding" },
+                    { "code": "PE111", "hours": 6, "subject": "Operations Research" },
+                    { "code": "PE131", "hours": 4, "subject": "Machining processes" },
+                    { "code": "PE152", "hours": 4, "subject": "M/C Tool Elements Drawing-2" },
+                    { "code": "HS161", "hours": 6, "subject": "Management Information Systems" }
+                ]
+            }
+        ],
+
+        [
+
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "PE223", "hours": 4, "subject": "Forming Technology" },
+                    { "code": "PE232", "hours": 6, "subject": "Theory of Metal Cutting" },
+                    { "code": "PE224", "hours": 6, "subject": "Solid Mechanics" },
+                    { "code": "PE241", "hours": 6, "subject": "Dimensional Metrology" },
+                    { "code": "MEx32", "hours": 4, "subject": "Fluid Mechanics-3" },
+                    { "code": "PE261", "hours": 4, "subject": "Machine Tool Elements Design-1" }
+                ]
+            },
+
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "PE225", "hours": 6, "subject": "Materials Technology-2" },
+                    { "code": "PE253", "hours": 4, "subject": "Theory of Machines" },
+                    { "code": "HSx64", "hours": 4, "subject": "Engineering Economy" },
+                    { "code": "EEx76", "hours": 5, "subject": "Electrical Engineering" },
+                    { "code": "MPx14", "hours": 6, "subject": "Mathematics-4" },
+                    { "code": "PE262", "hours": 5, "subject": "Machine Tool Elements Design-2" }
+                ]
+            }
+        ],
+
+        [
+
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "PE326", "hours": 5, "subject": "Plasticity and Metal Forming" },
+                    { "code": "HS363", "hours": 4, "subject": "Human Factors" },
+                    { "code": "MP310", "hours": 5, "subject": "Mathematics-10 (Engineering Statistics)" },
+                    { "code": "EE314", "hours": 6, "subject": "Electric and Electronic Engineering" },
+                    { "code": "PE363", "hours": 6, "subject": "Theory and Design of M/C Tools-1" },
+                    { "code": "PE3E1", "hours": 4, "subject": "Elective (1)" }
+                ]
+            },
+
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "PE342", "hours": 6, "subject": "Geometrical Metrology" },
+                    { "code": "PE313", "hours": 5, "subject": "Facilities Layout and Design" },
+                    { "code": "PE334", "hours": 5, "subject": "Production and Operation Management" },
+                    { "code": "ME323", "hours": 4, "subject": "Thermal Engineering" },
+                    { "code": "PE364", "hours": 6, "subject": "Theory and Design of M/C Tools-2" },
+                    { "code": "PE3E2", "hours": 4, "subject": "Elective (2)" }
+                ]
+            }
+        ],
+
+        [
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "PE465", "hours": 4, "subject": "Advanced M/C Tools" },
+                    { "code": "PE466", "hours": 4, "subject": "Automatic Control" },
+                    { "code": "PE444", "hours": 4, "subject": "Advanced Metrology Systems" },
+                    { "code": "PE431", "hours": 4, "subject": "Advanced Machining Technology" },
+                    { "code": "PE4E3", "hours": 4, "subject": "Elective (3)" },
+                    { "code": "PE4E4", "hours": 4, "subject": "Elective (4)" },
+                    { "code": "PE401", "hours": 6, "subject": "Project", "continuous": true }
+                ]
+            },
+
+            {
+                "enabled": false,
+                "subjects": [
+                    { "code": "PE427", "hours": 4, "subject": "Technology of advanced Materials" },
+                    { "code": "PE445", "hours": 4, "subject": "Quality Control" },
+                    { "code": "HSx61", "hours": 4, "subject": "Project Management" },
+                    { "code": "PE457", "hours": 4, "subject": "Machine Tool Dynamics" },
+                    { "code": "PE4E5", "hours": 4, "subject": "Elective (5)" },
+                    { "code": "PE4E6", "hours": 4, "subject": "Elective (6)" },
+                    { "code": "PE402", "hours": 6, "subject": "Project", "tothours": 12 }
+                ]
+            }
+        ]
+    ]
+}

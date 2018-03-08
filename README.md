@@ -16,8 +16,6 @@ Supported Departments
 3. EED - Communication and Electronics.
 4. Mechanical Department.
 5. Nuclear Department.
-
-**To be added soon!**
 6. Civil Department.
 7. Production Department.
 
