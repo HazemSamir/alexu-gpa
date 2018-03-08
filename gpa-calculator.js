@@ -1,7 +1,7 @@
 var app = angular.module('gpa-calculator', []);
 
 const GRADES = {
-  'Distinction': 4,
+  'Excellent': 4,
   'Very Good': 3.5,
   'Good': 2.75,
   'Pass': 2,
@@ -21,7 +21,7 @@ const PREP_YEAR = [
       { code: "PE011", subject: "Production", hours: 4 }
       ]
   },
-  
+
   {
       enabled: false,
       subjects: [
@@ -43,6 +43,18 @@ function saveLocally(years, grades, dep, depName) {
   localStorage.grades = JSON.stringify(grades);
 }
 
+function validateLocalGrades(localGrades) {
+  if (localGrades == null || localGrades.length != GRADES.length) {
+    return false;
+  }
+  for (grade in GRADES) {
+    if (localGrades[grade] === null) {
+      return false;
+    }
+  }
+  return true;
+}
+
 app.controller('calculator', function(YearsData){
   var that = this;
 
@@ -61,10 +73,11 @@ app.controller('calculator', function(YearsData){
   this.hideWelcome = function() {
     localStorage.hideWelcome = true;
   }
+  let validCache = validateLocalGrades(localStorage.grades);
 
   this.initializeGrades = function (localGrades) {
     // Checks if grades exist in local storage.
-    if(localGrades != null) {
+    if(localGrades != null && validCache) {
       // Use value initialized in local storage.
       that.grades = JSON.parse(localGrades);
     } else {
@@ -77,7 +90,7 @@ app.controller('calculator', function(YearsData){
 
   this.initializeYears = function (localYears, localDep, urlDep) {
     // Checks if year configuration exists in local storage.
-    if(localYears != null && localDep === urlDep) {
+    if(localYears != null && validCache && localDep === urlDep) {
       // Use value initialized in local storage.
       that.years = JSON.parse(localYears);
     } else {
@@ -97,14 +110,14 @@ app.controller('calculator', function(YearsData){
             semester.enabled = false;
             for(let k = 0; k < semester.subjects.length; k++) {
               let subject = semester.subjects[k];
-              subject.grade = 'Distinction';
+              subject.grade = 'Excellent';
             }
           }
         }
 
         saveLocally(that.years, that.grades, that.dep, that.depName);
       });
-      
+
     }
   };
 
@@ -131,7 +144,7 @@ app.controller('calculator', function(YearsData){
             let subject = semester.subjects[k];
             if (!!subject.continuous) continue;
             subject.grade = subject.grade || 'Distinction';
-            let points = that.grades[subject.grade] || GRADES[subject.grade]
+            let points = that.grades[subject.grade] || GRADES[subject.grade] || 0;
   					num += points * (subject.totHours || subject.hours);
   					denom += (subject.totHours || subject.hours);
   				}
@@ -157,7 +170,7 @@ app.service('YearsData', function($location, $http){
     let searchRes = $location.search();
     return searchRes['dep'];
   };
-  
+
   this.getDepYears = function(dep, callback) {
     let dataPath = "data/" + dep + ".json";
     $http.get(dataPath)
